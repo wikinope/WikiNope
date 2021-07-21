@@ -2,6 +2,7 @@
 
 ![catcoding](https://user-images.githubusercontent.com/78035920/126549904-e855f2a1-d16a-4e54-82ba-fa811e60bb98.jpg)
 
+What I do: Messing with stuff until it works
 
 - 🔭 I’m currently working on Making Youtube Videos & Coding =)
 - 🌱 I’m currently learning Python & Batchfile Experimenting 

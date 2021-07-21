@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on Making Youtube Videos & Coding =)
 - 🌱 I’m currently learning Python & Batchfile Experimenting 
-- 📫 How to reach me: [Discord Server]https://discord.gg/Ps3kUEbqgr
+- 📫 How to reach me: [Discord Server](https://discord.gg/Ps3kUEbqgr)
 -->

@@ -4,6 +4,6 @@
 
 What I do: Messing with stuff until it works
 
-- 🔭 I’m currently working on Making Youtube Videos & Coding =)
-- 🌱 I’m currently learning Python & Batchfile Experimenting 
+- 🔭 I’m currently working on Making a Discord Bot & Coding =)
+- 🌱 I’m currently learning Python & Javascript
 - 📫 How to reach me: You can reach me on my [Discord Server](https://discord.gg/Ps3kUEbqgr) (I'll probably be online)
